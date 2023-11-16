@@ -13,4 +13,5 @@ OLÁ SOU O DONO DESTE PROJETO. AQUI VOU DEIXAR AS FERRAMENTAS UTILIZADAS POR MIM
 *TELEGRAM: https://web.telegram.org/a/
 
 *BOT FATHER: @BotFather
+
 ------------------------------------------------------------------------------------------
